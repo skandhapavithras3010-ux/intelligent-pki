@@ -75,3 +75,29 @@ The application also provides SHAP-based explanations for the machine-learning p
                             │
                             ▼
                    Streamlit + JSON Report
+
+## Demo
+
+### Trusted Certificate
+
+![Trusted Certificate](Screenshots/Trusted.png)
+
+### PKI Policy Results
+
+![Trusted PKI Policy](Screenshots/Trusted_PKI_Policy.png)
+
+### SHAP Explanation
+
+![Trusted SHAP Explanation](Screenshots/Trusted_SHAP.png)
+
+### Untrusted Certificate
+
+![Untrusted Certificate](Screenshots/Untrusted.png)
+
+### Untrusted PKI Policy
+
+![Untrusted PKI Policy](Screenshots/Untrusted_PKI_Policy.png)
+
+### Untrusted SHAP Explanation
+
+![Untrusted SHAP Explanation](Screenshots/Untrusted_SHAP.png)
