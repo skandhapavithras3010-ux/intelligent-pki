@@ -75,7 +75,7 @@ The application also provides SHAP-based explanations for the machine-learning p
                             │
                             ▼
                    Streamlit + JSON Report
-'''
+```
 ## Demo
 
 ### Trusted Certificate
